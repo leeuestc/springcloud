@@ -1,0 +1,6 @@
+com/cloud/PaymentMain.class
+com/cloud/service/PaymentService.class
+com/cloud/dao/PaymentMapper.class
+com/cloud/domain/CommonResult.class
+com/cloud/controlller/PaymentController.class
+com/cloud/domain/Payment.class
